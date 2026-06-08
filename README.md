@@ -1,14 +1,14 @@
-# Calculator
+Calculator
 A simple calculator built using HTML, CSS and JavaScript.
-## Features
-- Basic arithmetic operations
-- Clean user interface
-- Responsive design
+ Features
+ Basic arithmetic operations
+ Clean user interface
+ Responsive design
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
+ Technologies Used
+HTML
+ CSS
+ JavaScript
 
-## Author
+ Author
 Janvi Bhardwaj
